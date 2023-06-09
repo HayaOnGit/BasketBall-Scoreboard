@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Cursed Timer ULIL';
+    src: url(Font/CursedTimerULiL.ttf);
+  }
+
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background:#1b244a;
+    width: 575px;
+    height: 385px;
+}
+
+#home,
+#guest {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1b244a;
+    width: 287.5px;
+    height: 385px;
+}
+
+#guest {
+    margin-left: -40px;
+}
+
+#home {
+    margin-right: -40x;
+}
+
+.title {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    color: white;
+    margin: px;
+    width: 149px;
+    height: 36px;
+    margin: 20px;
+}
+
+.score {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: rgb(0, 0, 0);
+    font-family: 'Cursed Timer ULiL';
+    color: #F94F6D;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    width:155px;
+    height: 120px;
+    padding: 0px;
+    border-radius: 5px;
+}
+
+.number {
+    line-height: normal;
+    height: 80px;
+}
+
+.buttonDiv {
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+    margin: 10px;
+    width: 155px;
+    height: 45;
+}
+
+.button-el {
+    Font-family: Cursed Timer ULiL;
+    Font-style: Regular;
+    Font-size: 18px;
+    Line-height: 27.81px;
+    color: #9aabd8;
+    background: transparent;
+    border: 2px solid #9aabd8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+}
