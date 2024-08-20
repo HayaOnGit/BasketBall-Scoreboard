@@ -18,7 +18,6 @@ Customization
 Clone the Repository:
 ```
 git clone https://github.com/HayaOnGit/Basketball-Scoreboard.git
-cd basketball-scoreboard
 ```
 
 Open the Project:
