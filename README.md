@@ -28,10 +28,6 @@ git clone https://github.com/HayaOnGit/Basketball-Scoreboard.git
 Open the Project:
 Open main.html in your web browser to view the scoreboard.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
