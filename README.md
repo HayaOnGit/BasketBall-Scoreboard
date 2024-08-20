@@ -3,14 +3,14 @@
 This Basketball Scoreboard is a web-based application designed to keep track of scores for a basketball game between two teams: Home and Guest. The application allows users to easily add points to either team and highlights the team currently in the lead.
 
 ## Project Structure
-main.html: The main HTML file that contains the structure of the scoreboard.
-main.css: The CSS file that styles the scoreboard.
-main.js: The JavaScript file that handles the logic for updating scores.
-CursedTimerULiL.ttf: The custom font used in the scoreboard.
-_redirects: A -redirects file for the html file named.
+main.html: The main HTML file that contains the structure of the scoreboard.</br>
+main.css: The CSS file that styles the scoreboard.</br>
+main.js: The JavaScript file that handles the logic for updating scores.</br>
+CursedTimerULiL.ttf: The custom font used in the scoreboard.</br>
+_redirects: A _redirects file for the html file.</br>
 
 ## Usage
-Click on the "+1", "+2", or "+3" buttons under either the Home or Guest section to add points to that team’s score.
+Click on the "+1", "+2", or "+3" buttons under either the Home or Guest section to add points to that team’s score.</br>
 The scoreboard dynamically updates the scores and highlights the title of the leading team in orange.
 Customization
 
