@@ -16,7 +16,6 @@ All files are in the same(root) directory.
 
 Click on the "+1", "+2", or "+3" buttons under either the Home or Guest section to add points to that team’s score.</br>
 The scoreboard dynamically updates the scores and highlights the title of the leading team in orange.
-Customization
 
 ## Installation
 
