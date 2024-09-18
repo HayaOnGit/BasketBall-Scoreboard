@@ -12,6 +12,11 @@ All files are in the same(root) directory.
 **CursedTimerULiL.ttf:** The custom font used in the scoreboard.<br>
 **_redirects:**          A _redirects file for the html file.<br>
 
+first:&nbsp;&nbsp;&nbsp;&nbsp;description for first  
+second:&nbsp;&nbsp;&nbsp;description for second  
+third:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description for third
+
+
 ## Usage
 
 Click on the "+1", "+2", or "+3" buttons under either the Home or Guest section to add points to that team’s score.</br>
