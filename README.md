@@ -6,16 +6,11 @@ This Basketball Scoreboard is a web-based application designed to keep track of 
 ## Project Structure
 All files are in the same(root) directory.
 
-**main.html:**         &nbsp;  The main HTML file that contains the structure of the scoreboard.<br>
-**main.css:**            The CSS file that styles the scoreboard.<br>
-**main.js:**             The JavaScript file that handles the logic for updating scores.<br>
-**CursedTimerULiL.ttf:** The custom font used in the scoreboard.<br>
-**_redirects:**          A _redirects file for the html file.<br>
-
-first:&nbsp;&nbsp;&nbsp;description for first  
-second:&nbsp;&nbsp;&nbsp;description for second  
-third:&nbsp;&nbsp;&nbsp;description for third
-
+**main.html:** &nbsp; The main HTML file that contains the structure of the scoreboard.<br>
+**main.css:** &nbsp; The CSS file that styles the scoreboard.<br>
+**main.js:** &nbsp; The JavaScript file that handles the logic for updating scores.<br>
+**CursedTimerULiL.ttf:** &nbsp; The custom font used in the scoreboard.<br>
+**_redirects:** &nbsp; A _redirects file for the html file.<br>
 
 ## Usage
 
