@@ -12,9 +12,9 @@ All files are in the same(root) directory.
 **CursedTimerULiL.ttf:** The custom font used in the scoreboard.<br>
 **_redirects:**          A _redirects file for the html file.<br>
 
-first:&nbsp;&nbsp;&nbsp;&nbsp;description for first  
+first:&nbsp;&nbsp;&nbsp;description for first  
 second:&nbsp;&nbsp;&nbsp;description for second  
-third:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description for third
+third:&nbsp;&nbsp;&nbsp;description for third
 
 
 ## Usage
