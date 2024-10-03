@@ -4,8 +4,8 @@ const onePointForHome = document.getElementById("plusOne-H")
 const twoPointsForHome = document.getElementById("plusTwo-H")
 const threePointsForHome = document.getElementById("plusThree-H")
 const onePointForGuest = document.getElementById("plusOne-G")
-const twoPointsForQuest = document.getElementById("plusTwo-G")
-const threePointsForQuest = document.getElementById("plusThree-G")
+const twoPointsForGuest = document.getElementById("plusTwo-G")
+const threePointsForGuest = document.getElementById("plusThree-G")
 const homeDiv = document.getElementById("home")
 const titleHome = document.getElementById("homeTitle")
 const titleGuest = document.getElementById("guestTitle")
@@ -38,13 +38,13 @@ onePointForGuest.addEventListener("click", function() {
     checkScore()
 })
 
-twoPointsForQuest.addEventListener("click", function() {
+twoPointsForGuest.addEventListener("click", function() {
     countGuest = countGuest + 2
     guestScore.textContent = countGuest
     checkScore()
 })
 
-threePointsForQuest.addEventListener("click", function() {
+threePointsForGuest.addEventListener("click", function() {
     countGuest = countGuest + 3
     guestScore.textContent = countGuest
     checkScore()
